@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tbW59SzQ3CaWtPt7/YJg3lPcE1artEHGQCPyc1cXaMA=",
+  "Source": "CalendarInviteICS",
+  "BasePath": "_content/CalendarInviteICS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
